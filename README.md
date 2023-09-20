@@ -1,6 +1,6 @@
 # Hi, I'm Morteza 👋
 
-I'm exploring the digital and neural realms to unravel the mysteries of AI and human cognition. Join me on this journey as we code the future and decode the mind! 💡✨ I'm a Computer Software Engineer with a passion for exploring the intersections of technology, machine learning, and cognitive neuroscience. Over the years, I've had the privilege of wearing multiple hats and contributing to diverse domains:
+I'm exploring the digital and neural realms to unravel the mysteries of AI and human cognition. Join me on this journey as we code the future and decode the mind! As a **Computer Software Engineer** with a passion for exploring the intersections of technology, machine learning, and cognitive neuroscience over the years, I've had the privilege of wearing multiple hats and contributing to diverse domains:
 
 🧠 **Machine Learning & Cognitive Neuroscience Researcher:** As a research assistant, I've delved into the fascinating world of  machine learning and cognitive neuroscience, seeking to unravel the complexities of human cognition. My work here is a fusion of digital innovation and brain exploration.
 
