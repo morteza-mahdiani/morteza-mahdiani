@@ -22,7 +22,7 @@ My journey on GitHub is a reflection of my interests and aspirations. You'll fin
 
 I'm always excited to connect with fellow developers, researchers, and tech enthusiasts. Whether you're interested in a collaborative project, have questions about my work, or just want to chat about the latest trends in tech, feel free to reach out!
 
-📫 **Contact:** [morteza.mahdiani_at_mila.quebec]
+📫 **Contact:** morteza.mahdiani_at_mila.quebec
 📚 **Scholar:** [Papers](https://scholar.google.com/citations?user=xFztGO8AAAAJ&hl=en)
 🌐 **Website:** [My Personal Website](https://morteza-mahdiani.github.io/)
 
