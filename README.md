@@ -10,7 +10,7 @@ I'm exploring the digital and neural realms to unravel the mysteries of AI and h
 
 I'm always excited to connect with fellow developers, researchers, and tech enthusiasts. Whether you're interested in a collaborative project, have questions about my work, or just want to chat about the latest trends in tech, feel free to reach out!
 
-📫 **Contact:** morteza.mahdiani_at_mila.quebec |
+📫 **Contact:** m72.morteza_at_gmail.com |
 📚 [**Papers**](https://scholar.google.com/citations?user=xFztGO8AAAAJ&hl=en) |
 🌐 [**Webpage**](https://morteza-mahdiani.github.io/) 
 
