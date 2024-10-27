@@ -1,6 +1,6 @@
 # Hi, I'm Morteza 👋
 
-I'm exploring the digital and neural realms to unravel the mysteries of AI and human cognition as a 🧠 **Machine Learning & Cognitive Neuroscience Researcher**.
+I'm exploring the digital and neural realms to unravel the mysteries of AI and human cognition.
 
 ## Let's Connect
 
